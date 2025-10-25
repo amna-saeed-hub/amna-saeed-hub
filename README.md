@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!-- Banner -->
 <p align="center">
   <img src="banner.png" width="1000"/>
