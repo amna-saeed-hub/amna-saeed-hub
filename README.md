@@ -64,7 +64,6 @@
 ### 📊 Featured Projects
 
 #### 🔹 PowerPay Insights Dashboard
-<img align="right" src="PowerPay_Snapshot.png" width="300"/>
 
 **Overview:**  
 Analyzes payment and transaction data (2022-2025) for a fictional utility company.  
