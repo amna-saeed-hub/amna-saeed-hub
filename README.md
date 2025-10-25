@@ -12,6 +12,9 @@
 </p>
 
 ---
+### 💼 About Me
+💛 Data analyst with 3+ years of experience in business intelligence, data automation, and reporting, known for building end-to-end Power BI and QlikView dashboards that help leadership make smarter, faster decisions. Highly skilled in Power BI (Fabric), SQL, Python, and Azure Databricks, with hands-on experience in managing large-scale data pipelines, optimizing KPIs, and creating insightful visualizations across operations, marketing, and customer service. Passionate about translating data into stories that drive growth and efficiency.
+---
 
 ### 🧠 Skills & Expertise
 
